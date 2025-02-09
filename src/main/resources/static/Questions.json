@@ -1,0 +1,791 @@
+[
+  {
+    "number": "C.",
+    "title": "Contextul organizației",
+    "subsections": [
+      {
+        "number": "C.1",
+        "title": "Descrierea organizației",
+        "subsections": [
+          {
+            "number": "C.1.a",
+            "title": "Mediul organizațional",
+            "subsections": [],
+            "questions": [
+              {
+                "number": 1,
+                "text": "Care sunt principalele (categorii de) produse și servicii furnizate, în ordinea importanței acestora pentru succesul organizației? Care este modalitatea de livrare/promovare pentru fiecare?",
+                "responseControlIndex": 0
+              },
+              {
+                "number": 2,
+                "text": "Care sunt viziunea și obiectivul organizației în ceea ce privește securitatea cibernetică?",
+                "responseControlIndex": 1
+              },
+              {
+                "number": 3,
+                "text": "Există aspecte particulare legate de viziunea și valorile organizației ce o diferențiază de alte organizații din același sector?",
+                "responseControlIndex": 2
+              },
+              {
+                "number": 4,
+                "text": "Care este profilul angajaților organizației: funcție, gradul de pregătire, mediul de lucru? Care dintre aceștia au sarcini legate de securitatea cibernetică? Pentru care dintre aceștia este activitatea de bază?",
+                "responseControlIndex": 3
+              },
+              {
+                "number": 5,
+                "text": "Care sunt cele mai importante bunuri ale organizației folosite în activitatea desfășurată în funcție de criticitate, valoare și nevoia de protecție?",
+                "responseControlIndex": 4
+              },
+              {
+                "number": 6,
+                "text": "Care sunt aspectele legale și regulatorii pe care organizația trebuie să le respecte din punctul de vedere al securității cibernetice și informaționale?",
+                "responseControlIndex": 5
+              }
+            ]
+          },
+          {
+            "number": "C.1.b",
+            "title": "Relația cu alte entități",
+            "subsections": [],
+            "questions": [
+              {
+                "number": 1,
+                "text": "Care este structura de conducere a organizației? Care sunt elementele responsabile de securitatea cibernetică și care sunt principalele legături de comunicare/raportate cu restul organizației (care nu se ocupă cu securitatea)?",
+                "responseControlIndex": 6
+              },
+              {
+                "number": 2,
+                "text": "Care sunt principalele grupuri de clienți și care sunt așteptările lor în ceea ce privește securitatea cibernetică a organizației?",
+                "responseControlIndex": 7
+              },
+              {
+                "number": 3,
+                "text": "Care sunt furnizorii, partenerii, colaboratorii organizației în funcție de importanța acestora? Care dintre aceștia au un rol în asigurare securității cibernetice a organizației? Care sunt așteptările/cerințele lor în ceea ce privește securitatea organizației?",
+                "responseControlIndex": 8
+              }
+            ]
+          }
+        ],
+        "questions": []
+      },
+      {
+        "number": "C.2",
+        "title": "Situația strategică a organizației",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Care e dimensiunea organizației în cadrul domeniului de activitate?",
+            "responseControlIndex": 9
+          },
+          {
+            "number": 2,
+            "text": "Cât de mare e competiția pe piața în care activează organizația?",
+            "responseControlIndex": 10
+          },
+          {
+            "number": 3,
+            "text": "Organizația are acces la date despre alte organizații (din același sector sau din exterior) în ceea ce privește performanțele securității cibernetice?",
+            "responseControlIndex": 11
+          },
+          {
+            "number": 4,
+            "text": "Care sunt avantajele și dezavantajele organizației față de competitori?",
+            "responseControlIndex": 12
+          },
+          {
+            "number": 5,
+            "text": "Organizația practică un proces de evaluare și îmbunătățire a performanțelor? În ce măsură include aspecte legate de securitatea cibernetică?",
+            "responseControlIndex": 13
+          }
+        ]
+      }
+    ],
+    "questions": []
+  },
+  {
+    "number": "1.",
+    "title": "Conducerea organizației",
+    "subsections": [
+      {
+        "number": "1.1",
+        "title": "Atitudinea conducerii",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Cum demonstrează conducerea angajamentul față de implementarea securității cibernetice?",
+            "responseControlIndex": 14
+          },
+          {
+            "number": 2,
+            "text": "Cum demonstrează conducerea angajamentul față de cerințele legale și etice?",
+            "responseControlIndex": 15
+          },
+          {
+            "number": 3,
+            "text": "Cum comunică și colaborează conducerea cu alte organizații, angajați, parteneri, clienți despre securitatea cibernetică?",
+            "responseControlIndex": 16
+          },
+          {
+            "number": 4,
+            "text": "Cum asigură conducerea cadrul propice pentru implementarea cu succes a politicilor și operațiunilor de securitate cibernetică pe termen scurt și pe termen lung?",
+            "responseControlIndex": 17
+          },
+          {
+            "number": 5,
+            "text": "Cum evidențiază conducerea nevoia de a acționa pentru atingerea obiectivelor de securitate cibernetică în concordanță cu misiunea organizației?",
+            "responseControlIndex": 18
+          }
+        ]
+      },
+      {
+        "number": "1.2",
+        "title": "Guvernanță și responsabilitatea socială",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Cum guvernează organizația politicile și operațiunile de securitate cibernetică?",
+            "responseControlIndex": 19
+          },
+          {
+            "number": 2,
+            "text": "Cum tratează organizația cerințele legale, regulatorii și preocupările comunității față de politicile și operațiunile de securitate cibernetică?",
+            "responseControlIndex": 20
+          },
+          {
+            "number": 3,
+            "text": "Cum promovați și asigurați etica în ceea ce privește securitatea cibernetică?",
+            "responseControlIndex": 21
+          }
+        ]
+      }
+    ],
+    "questions": []
+  },
+  {
+    "number": "2.",
+    "title": "Strategia",
+    "subsections": [
+      {
+        "number": "2.1",
+        "title": "Planificarea strategiei",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Cum este integrată securitatea cibernetică în cadrul planificării strategice a organizației?",
+            "responseControlIndex": 22
+          },
+          {
+            "number": 2,
+            "text": "În ce măsură este stimulată inovarea în cadrul politicilor și operațiunilor de securitate cibernetică?",
+            "responseControlIndex": 23
+          },
+          {
+            "number": 3,
+            "text": "Cum și ce date sunt colectate și analizate privind securitatea cibernetică, pentru a fi folosite în procesul de planificare strategică?",
+            "responseControlIndex": 24
+          },
+          {
+            "number": 4,
+            "text": "Cum se decide ce procese de securitate cibernetică vor fi implementate de angajați și care vor fi implementate de entități externe?",
+            "responseControlIndex": 25
+          },
+          {
+            "number": 5,
+            "text": "Care sunt obiectivele strategice de securitate cibernetică și în ce legătură se află cu celelalte obiective strategice?",
+            "responseControlIndex": 26
+          }
+        ]
+      },
+      {
+        "number": "2.2",
+        "title": "Implementarea strategiei",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Care sunt principalele planuri de acțiune legate de securitatea cibernetica, pe termen scurt și pe termen lung și cum vor fi implementate?",
+            "responseControlIndex": 27
+          },
+          {
+            "number": 2,
+            "text": "Cum sunt asigurate resursele necesare pentru aceste planuri?",
+            "responseControlIndex": 28
+          },
+          {
+            "number": 3,
+            "text": "Care este abordarea în privința angajaților pentru a duce la bun sfârșit aceste planuri?",
+            "responseControlIndex": 29
+          },
+          {
+            "number": 4,
+            "text": "Care sunt indicatorii și metricile de performanță folosite, împreună cu proiecțiile aferente?",
+            "responseControlIndex": 30
+          },
+          {
+            "number": 5,
+            "text": "Cum este descoperită și tratată nevoie de a modifica aceste planuri și de a le pune rapid în practică?",
+            "responseControlIndex": 31
+          }
+        ]
+      }
+    ],
+    "questions": []
+  },
+  {
+    "number": "3.",
+    "title": "Pacienții/Clienții",
+    "subsections": [
+      {
+        "number": "3.1",
+        "title": "Satisfacerea pacienților/clienților",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Cum sunt obținute informațiile despre așteptările și cerințele pacienților și care este gradul acestora de satisfacție în ceea ce privește serviciile organizației?",
+            "responseControlIndex": 32
+          },
+          {
+            "number": 2,
+            "text": "Cum este folosit feedback-ul pacienților/clienților în susținerea deciziilor privind politicile și operațiunile de securitate cibernetică?",
+            "responseControlIndex": 33
+          }
+        ]
+      },
+      {
+        "number": "3.2",
+        "title": "Implicarea pacienților/clienților",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Care este gradul de angajament al clienților privind politicile și operațiunile de securitate cibernetică a organizației?",
+            "responseControlIndex": 34
+          },
+          {
+            "number": 2,
+            "text": "Cum este văzută relația cu pacienții și cum este asigurată retenția acestora (respectarea cerințelor acestora, depășirea așteptărilor)?",
+            "responseControlIndex": 35
+          },
+          {
+            "number": 3,
+            "text": "Cum convingeți pacienții să colaboreze prin furnizarea de date personale în scopul îmbunătățirii experienței acestora?",
+            "responseControlIndex": 36
+          },
+          {
+            "number": 4,
+            "text": "Cum vă asigurați că pacienții își înțeleg rolul și își respectă responsabilitățile de securitate în interacțiunea cu serviciile primite?",
+            "responseControlIndex": 37
+          },
+          {
+            "number": 5,
+            "text": "Cum sunt tratate plângerile clienților în ceea ce privește securitatea cibernetică?",
+            "responseControlIndex": 38
+          }
+        ]
+      }
+    ],
+    "questions": []
+  },
+  {
+    "number": "4.",
+    "title": "Măsurători, analiză și managementul informației",
+    "subsections": [
+      {
+        "number": "4.1",
+        "title": "Măsurători, analiză și îmbunătățirea performanțelor",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Cum sunt urmărite datele și informațiile zilnice privind securitatea cibernetică? Dar cele generale de performanță cibernetică?",
+            "responseControlIndex": 39
+          },
+          {
+            "number": 2,
+            "text": "Care este măsurată performanța securității cibernetice? Cum este monitorizat aspectul financiar privind operațiunile de securitate cibernetică?",
+            "responseControlIndex": 40
+          },
+          {
+            "number": 3,
+            "text": "Cum este măsurat impactul performanței securității cibernetice asupra performanței întregii organizații?",
+            "responseControlIndex": 41
+          },
+          {
+            "number": 4,
+            "text": "Cum sunt selectate datele ce compară organizația cu cele asemănătoare pentru a ajuta în luarea deciziilor?",
+            "responseControlIndex": 42
+          },
+          {
+            "number": 5,
+            "text": "În contextul unor schimbări rapide și neașteptate, cum este asigurată realizarea acestor măsurători de performanță în timp util?",
+            "responseControlIndex": 43
+          },
+          {
+            "number": 6,
+            "text": "Cum este monitorizată și analizată performanța cibernetică a organizației?",
+            "responseControlIndex": 44
+          },
+          {
+            "number": 7,
+            "text": "Cum se fac proiecțiile de performanță a securității cibernetice?",
+            "responseControlIndex": 45
+          },
+          {
+            "number": 8,
+            "text": "Cum sunt folosite rezultatele monitorizării și analizei (punctul 6) pentru dezvoltarea priorităților privind âmbunătățirea continuă și oportunitățile de inovare în securitate cibernetică?",
+            "responseControlIndex": 46
+          }
+        ]
+      },
+      {
+        "number": "4.2",
+        "title": "Managementul informației",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Cum e verificată și asigurată calitatea datelor organizaționale și informațiilor de securitate cibernetică?",
+            "responseControlIndex": 47
+          },
+          {
+            "number": 2,
+            "text": "Cum este asigurată disponibilitatea acestora?",
+            "responseControlIndex": 48
+          },
+          {
+            "number": 3,
+            "text": "Cum este instituit, administrat și actualizată?",
+            "responseControlIndex": 49
+          },
+          {
+            "number": 4,
+            "text": "Cum sunt distribuite bunele practici de securitate în interiorul organizației și cu pacienții, furnizorii, partenerii sau colaboratorii?",
+            "responseControlIndex": 50
+          },
+          {
+            "number": 5,
+            "text": "Cum este încurajată învățarea în ceea ce privește practicile de securitate?",
+            "responseControlIndex": 51
+          }
+        ]
+      }
+    ],
+    "questions": []
+  },
+  {
+    "number": "5.",
+    "title": "Angajații",
+    "subsections": [
+      {
+        "number": "5.1",
+        "title": "Mediul de lucru",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Cum sunt evaluate capacitatea și capabilitatea angajaților din securitate?",
+            "responseControlIndex": 52
+          },
+          {
+            "number": 2,
+            "text": "Cum se realizează recrutarea, angajarea, instruirea și retenția angajaților din securitate?",
+            "responseControlIndex": 53
+          },
+          {
+            "number": 3,
+            "text": "Cum sunt pregătiți angajații din securitatea pentru eventuale nevoi de schimbare a capacităților și cunoștințelor?",
+            "responseControlIndex": 54
+          },
+          {
+            "number": 4,
+            "text": "Cum sunt stabilite rolurile și responsabilitățile pentru angajații din securitate?",
+            "responseControlIndex": 55
+          }
+        ]
+      },
+      {
+        "number": "5.2",
+        "title": "Implicarea angajaților",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Cum este evaluat gradul de implicare al angajaților în chestiuni de securitate cibernetică?",
+            "responseControlIndex": 56
+          },
+          {
+            "number": 2,
+            "text": "Cum este construită o cultură organizațională ce presupune comunicare, performanță și implicare în chestiuni de securitate?",
+            "responseControlIndex": 57
+          },
+          {
+            "number": 3,
+            "text": "Cum este încurajată performanța în realizarea responsabilităților de securitate cibernetică?",
+            "responseControlIndex": 58
+          },
+          {
+            "number": 4,
+            "text": "Cum sunt încurajați și susținuți angajații să își dezvolte cunoștințele în vederea realizării responsabilităților de securitate cibernetică? Cum este evaluată eficacitatea dezvoltării cunoștințelor?",
+            "responseControlIndex": 59
+          }
+        ]
+      }
+    ],
+    "questions": []
+  },
+  {
+    "number": "6.",
+    "title": "Operațiuni",
+    "subsections": [
+      {
+        "number": "6.1",
+        "title": "Procese de lucru",
+        "subsections": [
+          {
+            "number": "6.1.a",
+            "title": "Proiectarea, managementul și îmbunătățirea proceselor de securitate cibernetică",
+            "subsections": [],
+            "questions": [
+              {
+                "number": 1,
+                "text": "Cum sunt determinate cerințele pentru procesele de lucru din securitatea cibernetică (b-d)?",
+                "responseControlIndex": 60
+              },
+              {
+                "number": 2,
+                "text": "Cum se asigură respectarea cerințelor de mai sus?",
+                "responseControlIndex": 61
+              },
+              {
+                "number": 3,
+                "text": "Cum sunt stabilite procesele suport pentru operațiunile de securitate?",
+                "responseControlIndex": 62
+              },
+              {
+                "number": 4,
+                "text": "Cum se urmărește îmbunătățirea proceselor de lucru?",
+                "responseControlIndex": 63
+              }
+            ]
+          },
+          {
+            "number": "6.1.b",
+            "title": "Protecția",
+            "subsections": [],
+            "questions": [
+              {
+                "number": 1,
+                "text": "Cum limitați accesul la activele fizice și logice doar la utilizatorii, procesele și dispozitivele autorizate?",
+                "responseControlIndex": 64
+              },
+              {
+                "number": 2,
+                "text": "Cum sunt administrate informațiile și arhivele organizației în raport cu strategia de risc de a proteja confidențialitatea, integritatea și disponibilitatea informațiilor?",
+                "responseControlIndex": 65
+              },
+              {
+                "number": 3,
+                "text": "Cum sunt administrate și utilizate politicile de securitate, procesele și procedurile pentru a asigura protecția sistemelor informatice și a activelor?",
+                "responseControlIndex": 66
+              },
+              {
+                "number": 4,
+                "text": "Cum sunt administrate soluțiile tehnice de securitate pentru a asigura siguranța și reziliența sistemelor și bunurilor în conformitate cu politicile, procedurile și convențiile organizației?",
+                "responseControlIndex": 67
+              }
+            ]
+          },
+          {
+            "number": "6.1.c",
+            "title": "Detecția",
+            "subsections": [],
+            "questions": [
+              {
+                "number": 1,
+                "text": "Cum se face detecția anomaliilor în timp util și cum este evaluat impactul unui incident de securitate?",
+                "responseControlIndex": 68
+              },
+              {
+                "number": 2,
+                "text": "Cum sunt monitorizate sistemele informatice și activele pentru a identifica incidentele de securitate și pentru a verifica eficacitatea măsurilor de protecție?",
+                "responseControlIndex": 69
+              },
+              {
+                "number": 3,
+                "text": "Cum se realizează întreținerea și testarea proceselor și procedurilor de detecție?",
+                "responseControlIndex": 70
+              }
+            ]
+          },
+          {
+            "number": "6.1.d",
+            "title": "Răspunsul",
+            "subsections": [],
+            "questions": [
+              {
+                "number": 1,
+                "text": "Cum sunt executate și întreținute procesele și procedurile de răspuns la incidente de securitate cibernetică?",
+                "responseControlIndex": 71
+              },
+              {
+                "number": 2,
+                "text": "Cum sunt coordonate activitățile de răspuns cu alte departamente, cu clienții, partenerii, dar și cu autoritățile?",
+                "responseControlIndex": 72
+              },
+              {
+                "number": 3,
+                "text": "Cum se face analiza activităților de răspuns în vederea asigurării unui răspuns eficient care să sprijine activitățile de recuperare?",
+                "responseControlIndex": 73
+              },
+              {
+                "number": 4,
+                "text": "Cum se previne propagarea unui incident, atenuarea efectelor și rezolvarea propriu-zisă a acestuia?",
+                "responseControlIndex": 74
+              }
+            ]
+          },
+          {
+            "number": "6.1.e",
+            "title": "Recuperarea",
+            "subsections": [],
+            "questions": [
+              {
+                "number": 1,
+                "text": "Cum sunt executate și întreținute procesele și procedurile de recuperare pentru a asigura revenirea la parametri optimi a sistemelor și activelor afectate de incidente de securitate?",
+                "responseControlIndex": 75
+              },
+              {
+                "number": 2,
+                "text": "Cum sunt coordonate activitățile de recuperare cu alte departamente, cu clienții, partenerii (furnizorii de internet, proprietarii sistemelor atacate, victimele, ceilalți furnizori)?",
+                "responseControlIndex": 76
+              }
+            ]
+          }
+        ],
+        "questions": []
+      },
+      {
+        "number": "6.2",
+        "title": "Eficiența operațională",
+        "subsections": [
+          {
+            "number": "6.2.a",
+            "title": "Eficiența și eficacitatea proceselor",
+            "subsections": [],
+            "questions": [
+              {
+                "number": 1,
+                "text": "Cum se face administrarea costul și eficienței operațiunilor de securitate cibernetică?",
+                "responseControlIndex": 77
+              },
+              {
+                "number": 2,
+                "text": "Cum se ia în considerare în contextul operațiunilor de securitate impactul acestora și alinierea cu celelalte operațiuni ale organizației?",
+                "responseControlIndex": 78
+              }
+            ]
+          },
+          {
+            "number": "6.2.b",
+            "title": "Managementul lanțului de aprovizionare",
+            "subsections": [],
+            "questions": [
+              {
+                "number": 1,
+                "text": "Cum se face selecția furnizorilor care sunt calificați, îndeplinesc nevoile și respectă obiectivele de securitate cibernetică ale organizației?",
+                "responseControlIndex": 79
+              },
+              {
+                "number": 2,
+                "text": "Cum este promovată alinierea și colaborarea în ceea ce privește securitatea cibernetică în interiorul lanțului de aprovizionare?",
+                "responseControlIndex": 80
+              },
+              {
+                "number": 3,
+                "text": "Cum sunt comunicate așteptările privind performanțele de securitate cibernetică furnizorilor? Cum sunt măsurate și evaluate performanțele acestora? Cum li se oferă feedback și cum sunt ajutați? Ce se întâmplă în situația unor furnizor cu performanțe slabe?",
+                "responseControlIndex": 81
+              }
+            ]
+          },
+          {
+            "number": "6.2.c",
+            "title": "Managementul siguranței și a stării de urgență",
+            "subsections": [],
+            "questions": [
+              {
+                "number": 1,
+                "text": "Cum se verifică alinierea operațiunilor de securitatea cibernetică la planul general de siguranță?",
+                "responseControlIndex": 82
+              },
+              {
+                "number": 2,
+                "text": "Cum se asigură includerea operațiunilor și considerațiilor de securitate cibernetică în pregătirea pentru dezastre naturale și diferite sări de urgență?",
+                "responseControlIndex": 83
+              },
+              {
+                "number": 3,
+                "text": "În contextul unei situații de urgență, cum se asigură buna funcționare a sistemelor și activelor pentru a fi în continuare sigure și disponibile pacienților și nevoilor organizației?",
+                "responseControlIndex": 84
+              }
+            ]
+          }
+        ],
+        "questions": []
+      }
+    ],
+    "questions": []
+  },
+  {
+    "number": "7.",
+    "title": "Rezultate",
+    "subsections": [
+      {
+        "number": "7.1",
+        "title": "Procese",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Ce rezultate s-au înregistrat pentru etapa de protecție a sistemelor și activelor?",
+            "responseControlIndex": 85
+          },
+          {
+            "number": 2,
+            "text": "Ce rezultate s-au înregistrat pentru etapa de detecție a incidentelor de securitate?",
+            "responseControlIndex": 86
+          },
+          {
+            "number": 3,
+            "text": "Ce rezultate s-au înregistrat pentru etapa de răspuns la incidente?",
+            "responseControlIndex": 87
+          },
+          {
+            "number": 4,
+            "text": "Ce rezultate s-au înregistrat pentru etapa de recuperarea în urma incidentelor?",
+            "responseControlIndex": 88
+          },
+          {
+            "number": 5,
+            "text": "Ce rezultate s-au înregistrat în ceea ce privește eficacitatea și eficiența proceselor ce susțin operațiunile de securitate cibernetică?",
+            "responseControlIndex": 89
+          },
+          {
+            "number": 6,
+            "text": "Ce rezultate s-au înregistrat privind pregătirea situațiilor de urgență în contextul operațiunilor de securitate cibernetică?",
+            "responseControlIndex": 90
+          },
+          {
+            "number": 7,
+            "text": "Ce rezultate s-au înregistrat privind înțelegerea și realizarea rolurilor și responsabilităților de securitate cibernetică a furnizorilor și partenerilor?",
+            "responseControlIndex": 91
+          },
+          {
+            "number": 8,
+            "text": "Ce rezultate s-au înregistrat privind managementul securității lanțului de aprovizionare?",
+            "responseControlIndex": 92
+          }
+        ]
+      },
+      {
+        "number": "7.2",
+        "title": "Pacienți/Clienți",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Ce rezultate s-au înregistrat privind satisfacția pacienților față de politicile de securitate cibernetică ale organizației?",
+            "responseControlIndex": 93
+          },
+          {
+            "number": 2,
+            "text": "Ce rezultate s-au înregistrat privind înțelegerea și realizarea rolurilor și responsabilităților de securitate cibernetică a pacienților/clienților?",
+            "responseControlIndex": 94
+          }
+        ]
+      },
+      {
+        "number": "7.3",
+        "title": "Angajați",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Ce rezultate s-au înregistrat privind capacitățile și capabilitățile angajaților cu rol în securitatea cibernetică?",
+            "responseControlIndex": 95
+          },
+          {
+            "number": 2,
+            "text": "Ce rezultate s-au înregistrat privind gradul de implicare al angajaților în chestiuni de securitate cibernetică?",
+            "responseControlIndex": 96
+          },
+          {
+            "number": 3,
+            "text": "Ce rezultate s-au înregistrat legat de îndeplinirea rolurilor și responsabilităților de securitate a tuturor angajaților?",
+            "responseControlIndex": 97
+          },
+          {
+            "number": 4,
+            "text": "Ce rezultate s-au înregistrat privind evoluția în contextul securității cibernetice, atât pentru angajați, cât și pentru conducere?",
+            "responseControlIndex": 98
+          }
+        ]
+      },
+      {
+        "number": "7.4",
+        "title": "Conducere și guvernanță",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Ce rezultate s-au înregistrat privind implicarea și comunicarea conducerii cu alte organizații, cu angajații, cu pacienții și cu partenerii în chestiuni de securitate cibernetică?",
+            "responseControlIndex": 99
+          },
+          {
+            "number": 2,
+            "text": "Ce rezultate s-au înregistrat privind guvernanța în chestiuni de securitate cibernetică?",
+            "responseControlIndex": 100
+          },
+          {
+            "number": 3,
+            "text": "Ce rezultate s-au înregistrat privind cerințele legale și regulatorii de securitate?",
+            "responseControlIndex": 101
+          },
+          {
+            "number": 4,
+            "text": "Ce rezultate s-au înregistrat privind etica în chestiuni de securitate cibernetică?",
+            "responseControlIndex": 102
+          }
+        ]
+      },
+      {
+        "number": "7.5",
+        "title": "Strategie și rezultate financiare",
+        "subsections": [],
+        "questions": [
+          {
+            "number": 1,
+            "text": "Ce rezultate s-au înregistrat privind performanța financiară și bugetară a operațiunilor de securitate cibernetică?",
+            "responseControlIndex": 103
+          },
+          {
+            "number": 2,
+            "text": "Ce rezultate s-au înregistrat privind impactul costurilor de securitate cibernetică asupra performanței financiare a întregii companii?",
+            "responseControlIndex": 104
+          },
+          {
+            "number": 3,
+            "text": "Ce rezultate s-au înregistrat privind realizarea planurilor de acțiune și strategiei de securitate cibernetică?",
+            "responseControlIndex": 105
+          }
+        ]
+      }
+    ],
+    "questions": []
+  }
+]
